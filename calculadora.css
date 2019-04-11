@@ -1,0 +1,13 @@
+form{
+	border: 1px solid black;
+	width: 250px;
+	text-align: center;
+	background-color: lightgrey;
+}
+form label{
+	font-size: 20px;
+}
+.botão:hover{
+	background-color: #fff;
+
+}
